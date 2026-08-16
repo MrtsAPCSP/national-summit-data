@@ -1,10 +1,21 @@
 {
-  "question": null,
+  "question": {
+    "id": "25007b06",
+    "type": "spotlight",
+    "prompt": "Fakenham (FKE): commit emergency defense spending? Costs 3 Happiness either way.",
+    "target": [
+      "FKE"
+    ],
+    "options": [
+      "yes",
+      "no"
+    ]
+  },
   "log": [
     "[Year 2] Low population loyalty triggered civil unrest at home. Happiness and GDP dipped.",
     "[Year 3] Low population loyalty triggered civil unrest at home. Happiness and GDP dipped.",
     "[Year 4] You signed a new alliance with Simuland.",
     "[Year 4] Class Vote -- UNIVERSAL RESEARCH FUND: Technology Level rises continent-wide; GDP dips slightly from the shared contribution."
   ],
-  "updated_at": 1786847062.5838962
+  "updated_at": 1786847199.7271569
 }
