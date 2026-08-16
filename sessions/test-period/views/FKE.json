@@ -1,17 +1,8 @@
 {
-  "question": {
-    "id": "8ba134ce",
-    "type": "classvote",
-    "prompt": "UNIVERSAL RESEARCH FUND: Every nation is asked to pool a small share of GDP into a shared technology fund open to all.",
-    "target": null,
-    "options": [
-      "yes",
-      "no"
-    ]
-  },
+  "question": null,
   "log": [
     "[Year 2] Low population loyalty triggered civil unrest at home. Happiness and GDP dipped.",
     "[Year 3] Low population loyalty triggered civil unrest at home. Happiness and GDP dipped."
   ],
-  "updated_at": 1786847014.0272782
+  "updated_at": 1786847055.9220886
 }
