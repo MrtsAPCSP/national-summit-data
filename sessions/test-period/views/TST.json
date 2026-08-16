@@ -1,10 +1,5 @@
 {
   "question": null,
-  "log": [
-    "[Year 1] Your researchers had a breakthrough! Technology rose to 33.7, GDP gained $25,584,544,720.",
-    "[Year 3] You struck a new trade deal with Simuland. Your economy grew.",
-    "[Year 4] Class Vote -- UNIVERSAL RESEARCH FUND: Technology Level rises continent-wide; GDP dips slightly from the shared contribution.",
-    "[Year 5] You lost your war against Fakenham. Ceded $100,747,469,764 and took a happiness hit."
-  ],
-  "updated_at": 1786847542.754405
+  "log": [],
+  "updated_at": 1786847635.9215016
 }
