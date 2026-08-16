@@ -2,7 +2,9 @@
   "question": null,
   "log": [
     "[Year 1] A volcanic eruption struck your nation. No relief funds committed -- damage was severe. GDP loss: $57,720,834,614, Happiness fell to 88.2.",
-    "[Year 3] You struck a new trade deal with Testopia. Your economy grew."
+    "[Year 3] You struck a new trade deal with Testopia. Your economy grew.",
+    "[Year 4] You signed a new alliance with Fakenham.",
+    "[Year 4] Class Vote -- UNIVERSAL RESEARCH FUND: Technology Level rises continent-wide; GDP dips slightly from the shared contribution."
   ],
-  "updated_at": 1786847058.4252615
+  "updated_at": 1786847064.5642147
 }
