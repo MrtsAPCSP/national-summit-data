@@ -1,16 +1,5 @@
 {
-  "question": {
-    "id": "8c6d7a61",
-    "type": "spotlight",
-    "prompt": "Fakenham (FKE): commit emergency relief funds to soften the damage? Costs ~2% of GDP up front either way.",
-    "target": [
-      "FKE"
-    ],
-    "options": [
-      "yes",
-      "no"
-    ]
-  },
+  "question": null,
   "log": [
     "[Year 2] Low population loyalty triggered civil unrest at home. Happiness and GDP dipped.",
     "[Year 3] Low population loyalty triggered civil unrest at home. Happiness and GDP dipped.",
@@ -18,5 +7,5 @@
     "[Year 4] Class Vote -- UNIVERSAL RESEARCH FUND: Technology Level rises continent-wide; GDP dips slightly from the shared contribution.",
     "[Year 5] You won your war against Testopia."
   ],
-  "updated_at": 1786847442.6408556
+  "updated_at": 1786847486.234609
 }
