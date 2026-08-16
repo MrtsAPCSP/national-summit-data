@@ -1,1 +1,12 @@
-{}
+{
+  "id": "25007b06",
+  "type": "spotlight",
+  "prompt": "Fakenham (FKE): commit emergency defense spending? Costs 3 Happiness either way.",
+  "target": [
+    "FKE"
+  ],
+  "options": [
+    "yes",
+    "no"
+  ]
+}
