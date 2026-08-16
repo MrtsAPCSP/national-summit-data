@@ -2,24 +2,25 @@
   "round": 5,
   "era_label": "Year 5",
   "narrative": [
-    "Processing this round -- watch for events..."
+    "\n============================================================\n  YEAR 5\n============================================================",
+    "\n\ud83d\udca1 TECH BREAKTHROUGH: Testopia (TST) unveils a major innovation! Technology Level rises to 42.2, GDP gains $27,891,321,202."
   ],
   "standings": [
     {
       "rank": 1,
       "code": "TST",
       "name": "Testopia",
-      "power_index": 54.8,
-      "gdp": 915488311057.8,
+      "power_index": 56.5,
+      "gdp": 957602027934.38,
       "happiness": 100,
-      "technology": 36.8
+      "technology": 42.2
     },
     {
       "rank": 2,
       "code": "SIM",
       "name": "Simuland",
-      "power_index": 48.2,
-      "gdp": 606956607560.21,
+      "power_index": 48.1,
+      "gdp": 600134027833.44,
       "happiness": 92.1,
       "technology": 30.0
     },
@@ -27,13 +28,13 @@
       "rank": 3,
       "code": "FKE",
       "name": "Fakenham",
-      "power_index": 28.4,
-      "gdp": 304362568812.97,
+      "power_index": 28.3,
+      "gdp": 297706375894.38,
       "happiness": 60.5,
       "technology": 18.7
     }
   ],
-  "status": "processing",
+  "status": "running",
   "superlatives": null,
-  "updated_at": 1786848106.3408008
+  "updated_at": 1786848119.294306
 }
