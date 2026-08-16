@@ -1,13 +1,8 @@
 {
-  "round": 3,
-  "era_label": "Year 3",
+  "round": 4,
+  "era_label": "Year 4",
   "narrative": [
-    "\n============================================================\n  YEAR 3\n============================================================",
-    "\n\ud83d\udca1 TECH BREAKTHROUGH: Fakenham (FKE) unveils a major innovation! Technology Level rises to 18.7, GDP gains $9,030,778,674.",
-    "\n\ud83d\uddf3\ufe0f  CLASS VOTE: CONTINENTAL CLIMATE ACCORD: Every nation is asked to commit to shared environmental standards, even countries relying on dirty energy.",
-    "    (Read this scenario aloud. Poll the room -- or let them vote on their laptops.)",
-    "    Result: 0/1 voted YES -- the measure FAILS.",
-    "    The Accord fails; economies get a small short-term GDP bump instead (+1%) but environmental damage continues unchecked."
+    "Processing this round -- watch for events..."
   ],
   "standings": [
     {
@@ -38,7 +33,7 @@
       "technology": 18.7
     }
   ],
-  "status": "running",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786847854.2315574
+  "updated_at": 1786847968.0981448
 }
