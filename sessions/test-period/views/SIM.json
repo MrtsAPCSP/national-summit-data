@@ -1,8 +1,17 @@
 {
-  "question": null,
+  "question": {
+    "id": "6ab54752",
+    "type": "classvote",
+    "prompt": "CONTINENTAL CLIMATE ACCORD: Every nation is asked to commit to shared environmental standards, even countries relying on dirty energy.",
+    "target": null,
+    "options": [
+      "yes",
+      "no"
+    ]
+  },
   "log": [
     "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
     "[Year 2] You signed a new alliance with Fakenham."
   ],
-  "updated_at": 1786847740.680995
+  "updated_at": 1786847814.5608854
 }
