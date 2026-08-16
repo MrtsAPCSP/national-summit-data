@@ -1,13 +1,8 @@
 {
-  "round": 4,
-  "era_label": "Year 4",
+  "round": 5,
+  "era_label": "Year 5",
   "narrative": [
-    "\n============================================================\n  YEAR 4\n============================================================",
-    "\n\ud83d\udd4a\ufe0f  SUMMIT: Simuland (SIM) and Fakenham (FKE) sign a new alliance!",
-    "\n\ud83d\uddf3\ufe0f  CLASS VOTE: UNIVERSAL RESEARCH FUND: Every nation is asked to pool a small share of GDP into a shared technology fund open to all.",
-    "    (Read this scenario aloud. Poll the room -- or let them vote on their laptops.)",
-    "    Result: 1/1 voted YES -- the measure PASSES.",
-    "    Technology Level rises continent-wide; GDP dips slightly from the shared contribution."
+    "Processing this round -- watch for events..."
   ],
   "standings": [
     {
@@ -38,7 +33,7 @@
       "technology": 18.0
     }
   ],
-  "status": "running",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786847068.827195
+  "updated_at": 1786847192.8693223
 }
