@@ -1,9 +1,18 @@
 {
-  "question": null,
+  "question": {
+    "id": "b6fbcf9b",
+    "type": "classvote",
+    "prompt": "CONTINENTAL TRADE BLOC: Every nation is asked to join a shared free-trade zone, dropping tariffs with every other nation at the Summit.",
+    "target": null,
+    "options": [
+      "yes",
+      "no"
+    ]
+  },
   "log": [
     "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
     "[Year 2] You signed a new alliance with Fakenham.",
     "[Year 3] Class Vote -- CONTINENTAL CLIMATE ACCORD: The Accord fails; economies get a small short-term GDP bump instead (+1%) but environmental damage continues unchecked."
   ],
-  "updated_at": 1786847843.893615
+  "updated_at": 1786847985.7738073
 }
