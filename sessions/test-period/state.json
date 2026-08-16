@@ -2,6 +2,36 @@
   "round": 0,
   "era_label": "",
   "narrative": [],
-  "standings": [],
-  "status": "idle"
+  "standings": [
+    {
+      "rank": 1,
+      "code": "TST",
+      "name": "Testopia",
+      "power_index": 52.6,
+      "gdp": 860160000000.0,
+      "happiness": 100,
+      "technology": 30.0
+    },
+    {
+      "rank": 2,
+      "code": "SIM",
+      "name": "Simuland",
+      "power_index": 48.0,
+      "gdp": 596544000000.0,
+      "happiness": 92.1,
+      "technology": 30.0
+    },
+    {
+      "rank": 3,
+      "code": "FKE",
+      "name": "Fakenham",
+      "power_index": 28.2,
+      "gdp": 337920000000.0,
+      "happiness": 60.5,
+      "technology": 15.0
+    }
+  ],
+  "status": "idle",
+  "superlatives": null,
+  "updated_at": 1786846714.7288308
 }
