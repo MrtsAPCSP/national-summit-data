@@ -1,11 +1,8 @@
 {
-  "round": 1,
-  "era_label": "Year 1",
+  "round": 2,
+  "era_label": "Year 2",
   "narrative": [
-    "\n============================================================\n  YEAR 1\n============================================================",
-    "\n\ud83c\udf2a\ufe0f  NATURAL DISASTER: Simuland (SIM) is threatened by a volcanic eruption!",
-    "    GDP falls by $57,720,834,614. Happiness drops to 88.2. No relief funds committed -- damage was severe.",
-    "\n\ud83d\udca1 TECH BREAKTHROUGH: Testopia (TST) unveils a major innovation! Technology Level rises to 33.7, GDP gains $25,584,544,720."
+    "Processing this round -- watch for events..."
   ],
   "standings": [
     {
@@ -36,7 +33,7 @@
       "technology": 15.0
     }
   ],
-  "status": "running",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786846907.3371544
+  "updated_at": 1786846911.0704436
 }
