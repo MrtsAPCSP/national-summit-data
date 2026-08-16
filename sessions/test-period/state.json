@@ -1,9 +1,8 @@
 {
-  "round": 2,
-  "era_label": "Year 2",
+  "round": 3,
+  "era_label": "Year 3",
   "narrative": [
-    "\n============================================================\n  YEAR 2\n============================================================",
-    "\n\u26a0\ufe0f  CIVIL UNREST: Low loyalty (30.5) triggers protests in Fakenham (FKE). Happiness and GDP dip."
+    "Processing this round -- watch for events..."
   ],
   "standings": [
     {
@@ -34,7 +33,7 @@
       "technology": 15.0
     }
   ],
-  "status": "running",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786846918.1081126
+  "updated_at": 1786846962.1239166
 }
