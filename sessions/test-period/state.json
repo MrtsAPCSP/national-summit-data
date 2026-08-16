@@ -2,7 +2,12 @@
   "round": 3,
   "era_label": "Year 3",
   "narrative": [
-    "Processing this round -- watch for events..."
+    "\n============================================================\n  YEAR 3\n============================================================",
+    "\n\ud83d\udca1 TECH BREAKTHROUGH: Fakenham (FKE) unveils a major innovation! Technology Level rises to 18.7, GDP gains $9,030,778,674.",
+    "\n\ud83d\uddf3\ufe0f  CLASS VOTE: CONTINENTAL CLIMATE ACCORD: Every nation is asked to commit to shared environmental standards, even countries relying on dirty energy.",
+    "    (Read this scenario aloud. Poll the room -- or let them vote on their laptops.)",
+    "    Result: 0/1 voted YES -- the measure FAILS.",
+    "    The Accord fails; economies get a small short-term GDP bump instead (+1%) but environmental damage continues unchecked."
   ],
   "standings": [
     {
@@ -10,7 +15,7 @@
       "code": "TST",
       "name": "Testopia",
       "power_index": 54.4,
-      "gdp": 892272624933.51,
+      "gdp": 894596342584.96,
       "happiness": 100,
       "technology": 36.8
     },
@@ -19,7 +24,7 @@
       "code": "SIM",
       "name": "Simuland",
       "power_index": 48.1,
-      "gdp": 598483319725.27,
+      "gdp": 601450490921.85,
       "happiness": 92.1,
       "technology": 30.0
     },
@@ -27,13 +32,13 @@
       "rank": 3,
       "code": "FKE",
       "name": "Fakenham",
-      "power_index": 27.8,
-      "gdp": 312159521500.04,
+      "power_index": 28.6,
+      "gdp": 313157301823.59,
       "happiness": 60.5,
-      "technology": 15.0
+      "technology": 18.7
     }
   ],
-  "status": "processing",
+  "status": "running",
   "superlatives": null,
-  "updated_at": 1786847799.8622746
+  "updated_at": 1786847854.2315574
 }
