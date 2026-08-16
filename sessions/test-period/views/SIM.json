@@ -1,7 +1,8 @@
 {
   "question": null,
   "log": [
-    "[Year 1] A volcanic eruption struck your nation. No relief funds committed -- damage was severe. GDP loss: $57,720,834,614, Happiness fell to 88.2."
+    "[Year 1] A volcanic eruption struck your nation. No relief funds committed -- damage was severe. GDP loss: $57,720,834,614, Happiness fell to 88.2.",
+    "[Year 3] You struck a new trade deal with Testopia. Your economy grew."
   ],
-  "updated_at": 1786846914.5061502
+  "updated_at": 1786846965.9241557
 }
