@@ -1,13 +1,5 @@
 {
   "question": null,
-  "log": [
-    "[Year 2] Low population loyalty triggered civil unrest at home. Happiness and GDP dipped.",
-    "[Year 3] Low population loyalty triggered civil unrest at home. Happiness and GDP dipped.",
-    "[Year 4] You signed a new alliance with Simuland.",
-    "[Year 4] Class Vote -- UNIVERSAL RESEARCH FUND: Technology Level rises continent-wide; GDP dips slightly from the shared contribution.",
-    "[Year 5] You won your war against Testopia.",
-    "[Year 6] Low population loyalty triggered civil unrest at home. Happiness and GDP dipped.",
-    "[Year 6] A massive earthquake struck your nation. No relief funds committed -- damage was severe. GDP loss: $15,947,484,988, Happiness fell to 48.3."
-  ],
-  "updated_at": 1786847537.6982043
+  "log": [],
+  "updated_at": 1786847635.9169185
 }
