@@ -1,8 +1,17 @@
 {
-  "question": null,
+  "question": {
+    "id": "8ba134ce",
+    "type": "classvote",
+    "prompt": "UNIVERSAL RESEARCH FUND: Every nation is asked to pool a small share of GDP into a shared technology fund open to all.",
+    "target": null,
+    "options": [
+      "yes",
+      "no"
+    ]
+  },
   "log": [
     "[Year 1] A volcanic eruption struck your nation. No relief funds committed -- damage was severe. GDP loss: $57,720,834,614, Happiness fell to 88.2.",
     "[Year 3] You struck a new trade deal with Testopia. Your economy grew."
   ],
-  "updated_at": 1786846965.9241557
+  "updated_at": 1786847016.7452245
 }
