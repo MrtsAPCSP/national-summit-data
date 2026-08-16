@@ -1,1 +1,12 @@
-{}
+{
+  "id": "e7e8d26b",
+  "type": "spotlight",
+  "prompt": "Testopia (TST): commit emergency defense spending? Costs 3 Happiness either way.",
+  "target": [
+    "TST"
+  ],
+  "options": [
+    "yes",
+    "no"
+  ]
+}
