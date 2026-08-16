@@ -1,10 +1,8 @@
 {
-  "round": 2,
-  "era_label": "Year 2",
+  "round": 3,
+  "era_label": "Year 3",
   "narrative": [
-    "\n============================================================\n  YEAR 2\n============================================================",
-    "\n\ud83d\udd4a\ufe0f  SUMMIT: Simuland (SIM) and Fakenham (FKE) sign a new alliance!",
-    "\n\ud83d\udca1 TECH BREAKTHROUGH: Testopia (TST) unveils a major innovation! Technology Level rises to 36.8, GDP gains $25,988,523,056."
+    "Processing this round -- watch for events..."
   ],
   "standings": [
     {
@@ -35,7 +33,7 @@
       "technology": 15.0
     }
   ],
-  "status": "running",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786847750.9173656
+  "updated_at": 1786847799.8622746
 }
