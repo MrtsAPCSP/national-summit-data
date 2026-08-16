@@ -1,7 +1,9 @@
 {
   "round": 0,
-  "era_label": "",
-  "narrative": [],
+  "era_label": "Summit Concluded",
+  "narrative": [
+    "The National Summit has concluded!"
+  ],
   "standings": [
     {
       "rank": 1,
@@ -31,7 +33,12 @@
       "technology": 15.0
     }
   ],
-  "status": "idle",
-  "superlatives": null,
-  "updated_at": 1786846403.2202623
+  "status": "concluded",
+  "superlatives": {
+    "richest": "Testopia (TST)",
+    "happiest": "Testopia (TST)",
+    "innovator": "Simuland (SIM)",
+    "diplomat": "Testopia (TST)"
+  },
+  "updated_at": 1786846595.1036115
 }
