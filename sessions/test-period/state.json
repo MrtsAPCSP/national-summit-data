@@ -1,9 +1,8 @@
 {
   "round": 5,
-  "era_label": "Year 5",
+  "era_label": "Summit Concluded",
   "narrative": [
-    "\n============================================================\n  YEAR 5\n============================================================",
-    "\n\ud83d\udca1 TECH BREAKTHROUGH: Testopia (TST) unveils a major innovation! Technology Level rises to 42.2, GDP gains $27,891,321,202."
+    "The National Summit has concluded!"
   ],
   "standings": [
     {
@@ -34,7 +33,12 @@
       "technology": 18.7
     }
   ],
-  "status": "running",
-  "superlatives": null,
-  "updated_at": 1786848119.294306
+  "status": "concluded",
+  "superlatives": {
+    "richest": "Testopia (TST)",
+    "happiest": "Testopia (TST)",
+    "innovator": "Testopia (TST)",
+    "diplomat": "Testopia (TST)"
+  },
+  "updated_at": 1786848137.9100347
 }
