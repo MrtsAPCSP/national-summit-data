@@ -1,1 +1,12 @@
-{}
+{
+  "id": "0ad844ec",
+  "type": "spotlight",
+  "prompt": "Simuland (SIM): commit emergency relief funds to soften the damage? Costs ~2% of GDP up front either way.",
+  "target": [
+    "SIM"
+  ],
+  "options": [
+    "yes",
+    "no"
+  ]
+}
