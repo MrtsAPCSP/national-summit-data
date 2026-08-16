@@ -1,14 +1,5 @@
 {
-  "question": {
-    "id": "b6fbcf9b",
-    "type": "classvote",
-    "prompt": "CONTINENTAL TRADE BLOC: Every nation is asked to join a shared free-trade zone, dropping tariffs with every other nation at the Summit.",
-    "target": null,
-    "options": [
-      "yes",
-      "no"
-    ]
-  },
+  "question": null,
   "log": [
     "[Year 1] You struck a new trade deal with Simuland. Your economy grew.",
     "[Year 2] Your researchers had a breakthrough! Technology rose to 36.8, GDP gained $25,988,523,056.",
