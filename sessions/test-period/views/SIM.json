@@ -3,7 +3,8 @@
   "log": [
     "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
     "[Year 2] You signed a new alliance with Fakenham.",
-    "[Year 3] Class Vote -- CONTINENTAL CLIMATE ACCORD: The Accord fails; economies get a small short-term GDP bump instead (+1%) but environmental damage continues unchecked."
+    "[Year 3] Class Vote -- CONTINENTAL CLIMATE ACCORD: The Accord fails; economies get a small short-term GDP bump instead (+1%) but environmental damage continues unchecked.",
+    "[Year 4] Class Vote -- CONTINENTAL TRADE BLOC: Trade Openness and GDP rise continent-wide."
   ],
-  "updated_at": 1786847985.7738073
+  "updated_at": 1786848029.929124
 }
