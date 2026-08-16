@@ -2,15 +2,16 @@
   "round": 2,
   "era_label": "Year 2",
   "narrative": [
-    "Processing this round -- watch for events..."
+    "\n============================================================\n  YEAR 2\n============================================================",
+    "\n\u26a0\ufe0f  CIVIL UNREST: Low loyalty (30.5) triggers protests in Fakenham (FKE). Happiness and GDP dip."
   ],
   "standings": [
     {
       "rank": 1,
       "code": "TST",
       "name": "Testopia",
-      "power_index": 53.6,
-      "gdp": 878402702040.63,
+      "power_index": 53.5,
+      "gdp": 875760368359.23,
       "happiness": 100,
       "technology": 33.7
     },
@@ -18,8 +19,8 @@
       "rank": 2,
       "code": "SIM",
       "name": "Simuland",
-      "power_index": 47.1,
-      "gdp": 533313262012.81,
+      "power_index": 46.9,
+      "gdp": 524527933943.51,
       "happiness": 88.2,
       "technology": 30.0
     },
@@ -27,13 +28,13 @@
       "rank": 3,
       "code": "FKE",
       "name": "Fakenham",
-      "power_index": 28.0,
-      "gdp": 324280142580.85,
-      "happiness": 60.5,
+      "power_index": 27.7,
+      "gdp": 302714073482.33,
+      "happiness": 56.2,
       "technology": 15.0
     }
   ],
-  "status": "processing",
+  "status": "running",
   "superlatives": null,
-  "updated_at": 1786846911.0704436
+  "updated_at": 1786846918.1081126
 }
