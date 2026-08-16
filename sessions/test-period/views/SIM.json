@@ -1,7 +1,8 @@
 {
   "question": null,
   "log": [
-    "[Year 1] You struck a new trade deal with Testopia. Your economy grew."
+    "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
+    "[Year 2] You signed a new alliance with Fakenham."
   ],
-  "updated_at": 1786847697.6128783
+  "updated_at": 1786847740.680995
 }
