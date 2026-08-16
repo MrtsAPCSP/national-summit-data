@@ -1,9 +1,8 @@
 {
-  "round": 1,
-  "era_label": "Year 1",
+  "round": 2,
+  "era_label": "Year 2",
   "narrative": [
-    "\n============================================================\n  YEAR 1\n============================================================",
-    "\n\ud83e\udd1d TRADE DEAL: Simuland (SIM) and Testopia (TST) strike a new trade agreement. Both economies grow."
+    "Processing this round -- watch for events..."
   ],
   "standings": [
     {
@@ -34,7 +33,7 @@
       "technology": 15.0
     }
   ],
-  "status": "running",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786847707.1690483
+  "updated_at": 1786847737.5027313
 }
