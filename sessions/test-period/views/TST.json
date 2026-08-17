@@ -36,15 +36,8 @@
     ],
     "trade_partners": [
       "SIM"
-    ],
-    "final_rank": 1,
-    "total_countries": 3,
-    "superlative_tags": [
-      "\ud83d\udcb0 Richest Nation",
-      "\ud83d\ude0a Happiest Nation",
-      "\ud83d\udd4a\ufe0f Most Diplomatic"
     ]
   },
-  "concluded": true,
-  "updated_at": 1786990685.6145205
+  "concluded": false,
+  "updated_at": 1786991055.8181462
 }
