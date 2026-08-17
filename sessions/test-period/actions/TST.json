@@ -1,7 +1,5 @@
 {
-  "action": "break_alliance",
-  "params": {
-    "target": "SIM"
-  },
-  "submitted_at": 1786992812.179
+  "action": "increase_military",
+  "params": {},
+  "submitted_at": 1786992816.526
 }
