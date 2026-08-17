@@ -2,15 +2,21 @@
   "round": 2,
   "era_label": "Year 2",
   "narrative": [
-    "Processing this round -- watch for events..."
+    "\n============================================================\n  YEAR 2\n============================================================",
+    "\n\ud83c\udfdb\ufe0f  Testopia (TST) took action: Lowered taxes to 15.0%. gdp (float): $875,840,961,910 - ($875,840,961,910 \u00d7 0.02) = $858,324,142,672. happiness_index (float) rose to 100.",
+    "\n\ud83d\udca1 TECH BREAKTHROUGH: Fakenham (FKE) just cracked something huge! Technology Level rises to 18.3, GDP gains $9,433,549,148.",
+    "    \ud83d\udd22 technology_level (float): 18.3",
+    "\n\ud83d\uddf3\ufe0f  CLASS VOTE: CONTINENTAL TRADE BLOC: Every nation is asked to join a shared free-trade zone, dropping tariffs with every other nation at the Summit.",
+    "    (Read this scenario aloud. Poll the room -- or let them vote on their laptops.)",
+    "    (No votes recorded -- skipping, no continent-wide effect this era.)"
   ],
   "standings": [
     {
       "rank": 1,
       "code": "TST",
       "name": "Testopia",
-      "power_index": 52.8,
-      "gdp": 875840961910.28,
+      "power_index": 52.6,
+      "gdp": 860833123646.84,
       "happiness": 100,
       "technology": 30.0,
       "primary_color": "Blue",
@@ -22,8 +28,8 @@
       "rank": 2,
       "code": "SIM",
       "name": "Simuland",
-      "power_index": 47.9,
-      "gdp": 589909359581.66,
+      "power_index": 48.0,
+      "gdp": 581123435693.38,
       "happiness": 92.1,
       "technology": 30.0,
       "primary_color": "Green",
@@ -35,17 +41,17 @@
       "rank": 3,
       "code": "FKE",
       "name": "Fakenham",
-      "power_index": 28.1,
-      "gdp": 328243791456.73,
+      "power_index": 28.7,
+      "gdp": 323885187408.68,
       "happiness": 60.5,
-      "technology": 15.0,
+      "technology": 18.3,
       "primary_color": "Black",
       "secondary_color": "Red",
       "government_type": "Dictatorship",
       "population_loyalty": 30.5
     }
   ],
-  "status": "processing",
+  "status": "running",
   "superlatives": null,
-  "updated_at": 1786992719.7571292
+  "updated_at": 1786992752.040061
 }
