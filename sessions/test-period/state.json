@@ -2,7 +2,12 @@
   "round": 5,
   "era_label": "Year 5",
   "narrative": [
-    "Processing this round -- watch for events..."
+    "\n============================================================\n  YEAR 5\n============================================================",
+    "\n\ud83d\udca1 TECH BREAKTHROUGH: Fakenham (FKE) just cracked something huge! Technology Level rises to 22.9, GDP gains $10,299,003,156.",
+    "    \ud83d\udd22 technology_level (float): 22.9",
+    "\n\ud83d\uddf3\ufe0f  CLASS VOTE: CONTINENTAL TRADE BLOC: Every nation is asked to join a shared free-trade zone, dropping tariffs with every other nation at the Summit.",
+    "    (Read this scenario aloud. Poll the room -- or let them vote on their laptops.)",
+    "    (No votes recorded -- skipping, no continent-wide effect this era.)"
   ],
   "standings": [
     {
@@ -10,8 +15,8 @@
       "code": "TST",
       "name": "Testopia",
       "power_index": 51.9,
-      "gdp": 755086721410.77,
-      "happiness": 87.2,
+      "gdp": 757618788326.29,
+      "happiness": 89.2,
       "technology": 30.0,
       "primary_color": "Blue",
       "secondary_color": "Gold",
@@ -22,8 +27,8 @@
       "rank": 2,
       "code": "SIM",
       "name": "Simuland",
-      "power_index": 48.0,
-      "gdp": 579984805649.05,
+      "power_index": 47.9,
+      "gdp": 573530295631.92,
       "happiness": 92.1,
       "technology": 30.0,
       "primary_color": "Green",
@@ -35,17 +40,17 @@
       "rank": 3,
       "code": "FKE",
       "name": "Fakenham",
-      "power_index": 29.2,
-      "gdp": 357077720274.28,
+      "power_index": 30.0,
+      "gdp": 353599108344.02,
       "happiness": 67.7,
-      "technology": 18.3,
+      "technology": 22.9,
       "primary_color": "Black",
       "secondary_color": "Red",
       "government_type": "Dictatorship",
       "population_loyalty": 30.5
     }
   ],
-  "status": "processing",
+  "status": "running",
   "superlatives": null,
-  "updated_at": 1786992941.4427097
+  "updated_at": 1786992975.420416
 }
