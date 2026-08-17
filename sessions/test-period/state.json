@@ -1,13 +1,8 @@
 {
   "round": 1,
-  "era_label": "Year 1",
+  "era_label": "Summit Concluded",
   "narrative": [
-    "\n============================================================\n  YEAR 1\n============================================================",
-    "\n\ud83e\udd1d TRADE DEAL: Testopia (TST) and Simuland (SIM) shake hands on a new agreement. Both economies grow.",
-    "    \ud83d\udd22 trade_partners (list): ['SIM']",
-    "\n\ud83c\udf2a\ufe0f  NATURAL DISASTER: Testopia (TST) is threatened by a swarm of tornadoes tearing through the countryside!",
-    "    GDP falls by $57,673,231,709. Happiness drops to 97.3. No relief funds committed -- damage was severe.",
-    "    \ud83d\udd22 gdp (float): $807,465,712,558"
+    "The National Summit has concluded!"
   ],
   "standings": [
     {
@@ -50,7 +45,14 @@
       "population_loyalty": 30.5
     }
   ],
-  "status": "running",
-  "superlatives": null,
-  "updated_at": 1786989949.001414
+  "status": "concluded",
+  "superlatives": {
+    "richest": "Testopia (TST)",
+    "happiest": "Testopia (TST)",
+    "innovator": "Simuland (SIM)",
+    "diplomat": "Testopia (TST)",
+    "survivor": "Testopia (TST)",
+    "eventful": "Testopia (TST)"
+  },
+  "updated_at": 1786990350.9471796
 }
