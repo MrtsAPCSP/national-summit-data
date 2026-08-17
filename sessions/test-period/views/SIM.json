@@ -1,7 +1,8 @@
 {
   "question": null,
   "log": [
-    "[Year 1] You struck a new trade deal with Testopia. Your economy grew."
+    "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
+    "[Year 2] Citizens organize a huge charity relief effort abroad -- the world is taking notice. Soft Power rose to 79.4."
   ],
   "stats": {
     "name": "Simuland",
@@ -13,11 +14,11 @@
     "rallying_cry": "Strength in Unity",
     "government_type": "Democracy",
     "continent": "Europe",
-    "gdp": 589909359581.66,
+    "gdp": 581123435693.38,
     "happiness_index": 92.1,
     "technology_level": 30.0,
     "diplomacy_score": 55.0,
-    "soft_power": 78.4,
+    "soft_power": 79.4,
     "trade_openness": 50.0,
     "environmental_impact": 5,
     "population_loyalty": 100,
@@ -39,5 +40,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786992728.976199
+  "updated_at": 1786992747.3947377
 }
