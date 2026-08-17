@@ -37,8 +37,13 @@
     "enemies": [
       "TST"
     ],
-    "trade_partners": []
+    "trade_partners": [],
+    "final_rank": 3,
+    "total_countries": 3,
+    "superlative_tags": [
+      "\u2694\ufe0f Most Wars Started"
+    ]
   },
-  "concluded": false,
-  "updated_at": 1786993055.8765175
+  "concluded": true,
+  "updated_at": 1786993091.49748
 }
