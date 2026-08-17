@@ -1,5 +1,17 @@
 {
-  "question": null,
+  "question": {
+    "id": "287b5308",
+    "type": "spotlight",
+    "prompt": "Testopia (TST): commit emergency defense spending? Costs 3 Happiness either way.",
+    "target": [
+      "TST"
+    ],
+    "options": [
+      "yes",
+      "no"
+    ],
+    "posted_at": 1786992845.8940709
+  },
   "log": [
     "[Year 1] You struck a new trade deal with Simuland. Your economy grew.",
     "[Year 1] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 100.",
@@ -46,5 +58,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786992792.1557028
+  "updated_at": 1786992849.9395497
 }
