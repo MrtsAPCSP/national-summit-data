@@ -1,5 +1,15 @@
 {
-  "question": null,
+  "question": {
+    "id": "34c43af5",
+    "type": "classvote",
+    "prompt": "CONTINENTAL TRADE BLOC: Every nation is asked to join a shared free-trade zone, dropping tariffs with every other nation at the Summit.",
+    "target": null,
+    "options": [
+      "yes",
+      "no"
+    ],
+    "posted_at": 1786992943.542241
+  },
   "log": [
     "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
     "[Year 2] Citizens organize a huge charity relief effort abroad -- the world is taking notice. Soft Power rose to 79.4.",
@@ -41,5 +51,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786992861.6766615
+  "updated_at": 1786992949.8506017
 }
