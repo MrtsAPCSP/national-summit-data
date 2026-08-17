@@ -36,8 +36,14 @@
     "enemies": [],
     "trade_partners": [
       "TST"
+    ],
+    "final_rank": 2,
+    "total_countries": 3,
+    "superlative_tags": [
+      "\ud83d\ude0a Happiest Nation",
+      "\ud83d\udd2c Most Innovative"
     ]
   },
-  "concluded": false,
-  "updated_at": 1786996121.8682196
+  "concluded": true,
+  "updated_at": 1786996261.461434
 }
