@@ -2,7 +2,10 @@
   "question": null,
   "log": [
     "[Year 1] Lowered taxes to 15.0%. gdp (float): $860,160,000,000 - ($860,160,000,000 \u00d7 0.02) = $842,956,800,000. happiness_index (float) rose to 100.",
-    "[Year 1] A raging wildfire season struck your nation. No relief funds committed -- damage was severe. GDP loss: $102,079,997,232, Happiness fell to 95.2."
+    "[Year 1] A raging wildfire season struck your nation. No relief funds committed -- damage was severe. GDP loss: $102,079,997,232, Happiness fell to 95.2.",
+    "[Year 2] Lowered taxes to 10.0%. gdp (float): $740,641,173,807 - ($740,641,173,807 \u00d7 0.02) = $725,828,350,331. happiness_index (float) rose to 98.2.",
+    "[Year 2] The worst river flooding in a generation struck your nation. No relief funds committed -- damage was severe. GDP loss: $26,858,767,892, Happiness fell to 96.7.",
+    "[Year 2] You lost your war against Fakenham. Ceded $91,641,549,099 and took a happiness hit."
   ],
   "stats": {
     "name": "Testopia",
@@ -14,8 +17,8 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 740641173807.3,
-    "happiness_index": 95.2,
+    "gdp": 599762590841.87,
+    "happiness_index": 85.3,
     "technology_level": 30.0,
     "diplomacy_score": 70.0,
     "soft_power": 87.3,
@@ -25,8 +28,8 @@
     "military_spending_pct": 4.0,
     "cyber_attack_strength": 25,
     "has_nuclear_weapons": false,
-    "tax_rate": 15.0,
-    "population": 80000000,
+    "tax_rate": 10.0,
+    "population": 79009134,
     "resources": [
       "Coal",
       "Wind Power"
@@ -42,5 +45,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786996107.3071342
+  "updated_at": 1786996121.869746
 }
