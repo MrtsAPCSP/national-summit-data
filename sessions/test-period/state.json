@@ -1,14 +1,8 @@
 {
-  "round": 2,
-  "era_label": "Year 2",
+  "round": 3,
+  "era_label": "Year 3",
   "narrative": [
-    "\n============================================================\n  YEAR 2\n============================================================",
-    "\n\ud83c\udfdb\ufe0f  Testopia (TST) took action: Lowered taxes to 15.0%. gdp (float): $875,840,961,910 - ($875,840,961,910 \u00d7 0.02) = $858,324,142,672. happiness_index (float) rose to 100.",
-    "\n\ud83d\udca1 TECH BREAKTHROUGH: Fakenham (FKE) just cracked something huge! Technology Level rises to 18.3, GDP gains $9,433,549,148.",
-    "    \ud83d\udd22 technology_level (float): 18.3",
-    "\n\ud83d\uddf3\ufe0f  CLASS VOTE: CONTINENTAL TRADE BLOC: Every nation is asked to join a shared free-trade zone, dropping tariffs with every other nation at the Summit.",
-    "    (Read this scenario aloud. Poll the room -- or let them vote on their laptops.)",
-    "    (No votes recorded -- skipping, no continent-wide effect this era.)"
+    "Processing this round -- watch for events..."
   ],
   "standings": [
     {
@@ -51,7 +45,7 @@
       "population_loyalty": 30.5
     }
   ],
-  "status": "running",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786992752.040061
+  "updated_at": 1786992788.2386625
 }
