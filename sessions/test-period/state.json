@@ -1,12 +1,8 @@
 {
-  "round": 1,
-  "era_label": "Year 1",
+  "round": 2,
+  "era_label": "Year 2",
   "narrative": [
-    "\n============================================================\n  YEAR 1\n============================================================",
-    "\n\ud83c\udfdb\ufe0f  Testopia (TST) took action: Lowered taxes to 15.0%. gdp (float): $860,160,000,000 - ($860,160,000,000 \u00d7 0.02) = $842,956,800,000. happiness_index (float) rose to 100.",
-    "\n\ud83c\udf2a\ufe0f  NATURAL DISASTER: Testopia (TST) is threatened by a raging wildfire season!",
-    "    GDP falls by $102,079,997,232. Happiness drops to 95.2. No relief funds committed -- damage was severe.",
-    "    \ud83d\udd22 gdp (float): $740,641,173,807"
+    "Processing this round -- watch for events..."
   ],
   "standings": [
     {
@@ -49,7 +45,7 @@
       "population_loyalty": 30.5
     }
   ],
-  "status": "running",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786996039.0989702
+  "updated_at": 1786996062.1759923
 }
