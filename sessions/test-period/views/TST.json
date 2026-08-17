@@ -6,7 +6,9 @@
     "[Year 2] Lowered taxes to 15.0%. gdp (float): $875,840,961,910 - ($875,840,961,910 \u00d7 0.02) = $858,324,142,672. happiness_index (float) rose to 100.",
     "[Year 3] Lowered taxes to 10.0%. gdp (float): $860,833,123,647 - ($860,833,123,647 \u00d7 0.02) = $843,616,461,174. happiness_index (float) rose to 100.",
     "[Year 3] You struck a new trade deal with Simuland. Your economy grew.",
-    "[Year 3] YOUR NATIONAL TEAM WINS THE CHAMPIONSHIP! The whole country is losing its mind. Happiness rose to 100."
+    "[Year 3] YOUR NATIONAL TEAM WINS THE CHAMPIONSHIP! The whole country is losing its mind. Happiness rose to 100.",
+    "[Year 4] Drafted more reserves. military_spending_pct (float): 4.0% + 3 = 7.0%. happiness_index (float) dipped to 98.",
+    "[Year 4] You lost your war against Fakenham. Ceded $115,134,470,126 and took a happiness hit."
   ],
   "stats": {
     "name": "Testopia",
@@ -18,19 +20,19 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 873148245078.87,
-    "happiness_index": 100,
+    "gdp": 755086721410.77,
+    "happiness_index": 87.2,
     "technology_level": 30.0,
     "diplomacy_score": 70.0,
     "soft_power": 87.3,
     "trade_openness": 60.0,
     "environmental_impact": 15,
     "population_loyalty": 100,
-    "military_spending_pct": 4.0,
-    "cyber_attack_strength": 25,
+    "military_spending_pct": 7.0,
+    "cyber_attack_strength": 27,
     "has_nuclear_weapons": false,
     "tax_rate": 10.0,
-    "population": 80000000,
+    "population": 78157993,
     "resources": [
       "Coal",
       "Wind Power"
@@ -46,5 +48,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786992849.9395497
+  "updated_at": 1786992861.6785157
 }
