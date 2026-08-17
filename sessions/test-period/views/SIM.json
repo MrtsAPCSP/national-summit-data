@@ -1,5 +1,17 @@
 {
-  "question": null,
+  "question": {
+    "id": "69bcf3a5",
+    "type": "spotlight",
+    "prompt": "Simuland (SIM): commit emergency relief funds to soften the damage? Costs ~2% of GDP up front either way.",
+    "target": [
+      "SIM"
+    ],
+    "options": [
+      "yes",
+      "no"
+    ],
+    "posted_at": 1786993011.7916324
+  },
   "log": [
     "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
     "[Year 2] Citizens organize a huge charity relief effort abroad -- the world is taking notice. Soft Power rose to 79.4.",
@@ -41,5 +53,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786992968.9970734
+  "updated_at": 1786993015.8449607
 }
