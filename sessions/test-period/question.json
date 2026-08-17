@@ -1,13 +1,1 @@
-{
-  "id": "9df60081",
-  "type": "spotlight",
-  "prompt": "Testopia (TST): commit emergency defense spending? Costs 3 Happiness either way.",
-  "target": [
-    "TST"
-  ],
-  "options": [
-    "yes",
-    "no"
-  ],
-  "posted_at": 1786996102.8029153
-}
+{}
