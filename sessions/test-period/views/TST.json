@@ -1,6 +1,9 @@
 {
   "question": null,
-  "log": [],
+  "log": [
+    "[Year 1] Lowered taxes to 15.0%. gdp (float): $860,160,000,000 - ($860,160,000,000 \u00d7 0.02) = $842,956,800,000. happiness_index (float) rose to 100.",
+    "[Year 1] A raging wildfire season struck your nation. No relief funds committed -- damage was severe. GDP loss: $102,079,997,232, Happiness fell to 95.2."
+  ],
   "stats": {
     "name": "Testopia",
     "country_code": "TST",
@@ -11,8 +14,8 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 860160000000.0,
-    "happiness_index": 100,
+    "gdp": 740641173807.3,
+    "happiness_index": 95.2,
     "technology_level": 30.0,
     "diplomacy_score": 70.0,
     "soft_power": 87.3,
@@ -22,7 +25,7 @@
     "military_spending_pct": 4.0,
     "cyber_attack_strength": 25,
     "has_nuclear_weapons": false,
-    "tax_rate": 20.0,
+    "tax_rate": 15.0,
     "population": 80000000,
     "resources": [
       "Coal",
@@ -39,5 +42,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786996024.923815
+  "updated_at": 1786996035.604309
 }
