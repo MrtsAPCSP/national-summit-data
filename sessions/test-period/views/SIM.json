@@ -1,5 +1,15 @@
 {
-  "question": null,
+  "question": {
+    "id": "07a067cf",
+    "type": "classvote",
+    "prompt": "UNIVERSAL RESEARCH FUND: Every nation is asked to pool a small share of GDP into a shared technology fund open to all.",
+    "target": null,
+    "options": [
+      "yes",
+      "no"
+    ],
+    "posted_at": 1786993028.5662386
+  },
   "log": [
     "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
     "[Year 2] Citizens organize a huge charity relief effort abroad -- the world is taking notice. Soft Power rose to 79.4.",
@@ -41,5 +51,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786993015.8449607
+  "updated_at": 1786993036.7754772
 }
