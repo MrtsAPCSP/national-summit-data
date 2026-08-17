@@ -11,7 +11,7 @@
     "rallying_cry": "Power Endures",
     "government_type": "Dictatorship",
     "continent": "Asia",
-    "gdp": 321897123423.5,
+    "gdp": 337920000000.0,
     "happiness_index": 60.5,
     "technology_level": 15.0,
     "diplomacy_score": 30.0,
@@ -32,11 +32,8 @@
     "enemies": [
       "TST"
     ],
-    "trade_partners": [],
-    "final_rank": 3,
-    "total_countries": 3,
-    "superlative_tags": []
+    "trade_partners": []
   },
-  "concluded": true,
-  "updated_at": 1786990352.4370513
+  "concluded": false,
+  "updated_at": 1786990636.6208696
 }
