@@ -1,5 +1,17 @@
 {
-  "question": null,
+  "question": {
+    "id": "300f1bd8",
+    "type": "spotlight",
+    "prompt": "Fakenham (FKE): commit emergency defense spending? Costs 3 Happiness either way.",
+    "target": [
+      "FKE"
+    ],
+    "options": [
+      "yes",
+      "no"
+    ],
+    "posted_at": 1786992830.1713479
+  },
   "log": [
     "[Year 2] Your researchers had a breakthrough! Technology rose to 18.3, GDP gained $9,433,549,148."
   ],
@@ -37,5 +49,5 @@
     "trade_partners": []
   },
   "concluded": false,
-  "updated_at": 1786992792.1557028
+  "updated_at": 1786992834.7210531
 }
