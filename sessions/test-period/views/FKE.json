@@ -1,5 +1,15 @@
 {
-  "question": null,
+  "question": {
+    "id": "07a067cf",
+    "type": "classvote",
+    "prompt": "UNIVERSAL RESEARCH FUND: Every nation is asked to pool a small share of GDP into a shared technology fund open to all.",
+    "target": null,
+    "options": [
+      "yes",
+      "no"
+    ],
+    "posted_at": 1786993028.5662386
+  },
   "log": [
     "[Year 2] Your researchers had a breakthrough! Technology rose to 18.3, GDP gained $9,433,549,148.",
     "[Year 4] You won your war against Testopia.",
@@ -40,5 +50,5 @@
     "trade_partners": []
   },
   "concluded": false,
-  "updated_at": 1786992968.995532
+  "updated_at": 1786993032.6895335
 }
