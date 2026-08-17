@@ -1,15 +1,5 @@
 {
-  "question": {
-    "id": "07a067cf",
-    "type": "classvote",
-    "prompt": "UNIVERSAL RESEARCH FUND: Every nation is asked to pool a small share of GDP into a shared technology fund open to all.",
-    "target": null,
-    "options": [
-      "yes",
-      "no"
-    ],
-    "posted_at": 1786993028.5662386
-  },
+  "question": null,
   "log": [
     "[Year 1] You struck a new trade deal with Simuland. Your economy grew.",
     "[Year 1] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 100.",
