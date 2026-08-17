@@ -3,7 +3,9 @@
   "log": [
     "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
     "[Year 2] Citizens organize a huge charity relief effort abroad -- the world is taking notice. Soft Power rose to 79.4.",
-    "[Year 3] You struck a new trade deal with Testopia. Your economy grew."
+    "[Year 3] You struck a new trade deal with Testopia. Your economy grew.",
+    "[Year 6] A raging wildfire season struck your nation. No relief funds committed -- damage was severe. GDP loss: $60,613,957,334, Happiness fell to 87.8.",
+    "[Year 6] A corruption scandal rocks the government -- someone's Swiss bank account just got a lot fatter. GDP lost $7,500,592,892."
   ],
   "stats": {
     "name": "Simuland",
@@ -15,8 +17,8 @@
     "rallying_cry": "Strength in Unity",
     "government_type": "Democracy",
     "continent": "Europe",
-    "gdp": 573530295631.92,
-    "happiness_index": 92.1,
+    "gdp": 492538933269.96,
+    "happiness_index": 87.8,
     "technology_level": 30.0,
     "diplomacy_score": 55.0,
     "soft_power": 79.4,
@@ -41,5 +43,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786993036.7754772
+  "updated_at": 1786993055.8765175
 }
