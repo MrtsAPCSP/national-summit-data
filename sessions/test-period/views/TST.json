@@ -1,8 +1,6 @@
 {
   "question": null,
-  "log": [
-    "[Year 1] Your researchers had a breakthrough! Technology rose to 35.0, GDP gained $25,748,356,042."
-  ],
+  "log": [],
   "stats": {
     "name": "Testopia",
     "country_code": "TST",
@@ -13,9 +11,9 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 884026890762.93,
+    "gdp": 860160000000.0,
     "happiness_index": 100,
-    "technology_level": 35.0,
+    "technology_level": 30.0,
     "diplomacy_score": 70.0,
     "soft_power": 87.3,
     "trade_openness": 60.0,
@@ -38,16 +36,8 @@
     ],
     "trade_partners": [
       "SIM"
-    ],
-    "final_rank": 1,
-    "total_countries": 3,
-    "superlative_tags": [
-      "\ud83d\udcb0 Richest Nation",
-      "\ud83d\ude0a Happiest Nation",
-      "\ud83d\udd2c Most Innovative",
-      "\ud83d\udd4a\ufe0f Most Diplomatic"
     ]
   },
-  "concluded": true,
-  "updated_at": 1786986250.2634218
+  "concluded": false,
+  "updated_at": 1786986650.6222894
 }
