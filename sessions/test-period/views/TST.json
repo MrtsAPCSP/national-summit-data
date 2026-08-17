@@ -9,7 +9,8 @@
     "[Year 3] YOUR NATIONAL TEAM WINS THE CHAMPIONSHIP! The whole country is losing its mind. Happiness rose to 100.",
     "[Year 4] Drafted more reserves. military_spending_pct (float): 4.0% + 3 = 7.0%. happiness_index (float) dipped to 98.",
     "[Year 4] You lost your war against Fakenham. Ceded $115,134,470,126 and took a happiness hit.",
-    "[Year 5] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 89.2."
+    "[Year 5] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 89.2.",
+    "[Year 6] Raised taxes to 15.0%. gdp (float): $757,618,788,326 + ($757,618,788,326 \u00d7 0.04) = $787,923,539,859. happiness_index (float) dipped to 86.2."
   ],
   "stats": {
     "name": "Testopia",
@@ -21,8 +22,8 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 757618788326.29,
-    "happiness_index": 89.2,
+    "gdp": 790055796889.57,
+    "happiness_index": 86.2,
     "technology_level": 30.0,
     "diplomacy_score": 70.0,
     "soft_power": 87.3,
@@ -32,7 +33,7 @@
     "military_spending_pct": 7.0,
     "cyber_attack_strength": 27,
     "has_nuclear_weapons": false,
-    "tax_rate": 10.0,
+    "tax_rate": 15.0,
     "population": 78157993,
     "resources": [
       "Coal",
@@ -49,5 +50,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786993034.644563
+  "updated_at": 1786993055.878034
 }
