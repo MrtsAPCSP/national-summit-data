@@ -1,6 +1,8 @@
 {
   "question": null,
-  "log": [],
+  "log": [
+    "[Year 1] A corruption scandal rocks the government -- someone's Swiss bank account just got a lot fatter. GDP lost $8,797,532,204."
+  ],
   "stats": {
     "name": "Simuland",
     "country_code": "SIM",
@@ -11,7 +13,7 @@
     "rallying_cry": "Strength in Unity",
     "government_type": "Democracy",
     "continent": "Europe",
-    "gdp": 596544000000.0,
+    "gdp": 577704614731.31,
     "happiness_index": 92.1,
     "technology_level": 30.0,
     "diplomacy_score": 55.0,
@@ -37,5 +39,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786995993.4046614
+  "updated_at": 1786996035.604309
 }
