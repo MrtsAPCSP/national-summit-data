@@ -1,17 +1,6 @@
 {
   "question": null,
-  "log": [
-    "[Year 1] You struck a new trade deal with Simuland. Your economy grew.",
-    "[Year 1] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 100.",
-    "[Year 2] Lowered taxes to 15.0%. gdp (float): $875,840,961,910 - ($875,840,961,910 \u00d7 0.02) = $858,324,142,672. happiness_index (float) rose to 100.",
-    "[Year 3] Lowered taxes to 10.0%. gdp (float): $860,833,123,647 - ($860,833,123,647 \u00d7 0.02) = $843,616,461,174. happiness_index (float) rose to 100.",
-    "[Year 3] You struck a new trade deal with Simuland. Your economy grew.",
-    "[Year 3] YOUR NATIONAL TEAM WINS THE CHAMPIONSHIP! The whole country is losing its mind. Happiness rose to 100.",
-    "[Year 4] Drafted more reserves. military_spending_pct (float): 4.0% + 3 = 7.0%. happiness_index (float) dipped to 98.",
-    "[Year 4] You lost your war against Fakenham. Ceded $115,134,470,126 and took a happiness hit.",
-    "[Year 5] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 89.2.",
-    "[Year 6] Raised taxes to 15.0%. gdp (float): $757,618,788,326 + ($757,618,788,326 \u00d7 0.04) = $787,923,539,859. happiness_index (float) dipped to 86.2."
-  ],
+  "log": [],
   "stats": {
     "name": "Testopia",
     "country_code": "TST",
@@ -22,19 +11,19 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 790055796889.57,
-    "happiness_index": 86.2,
+    "gdp": 860160000000.0,
+    "happiness_index": 100,
     "technology_level": 30.0,
     "diplomacy_score": 70.0,
     "soft_power": 87.3,
     "trade_openness": 60.0,
     "environmental_impact": 15,
     "population_loyalty": 100,
-    "military_spending_pct": 7.0,
-    "cyber_attack_strength": 27,
+    "military_spending_pct": 4.0,
+    "cyber_attack_strength": 25,
     "has_nuclear_weapons": false,
-    "tax_rate": 15.0,
-    "population": 78157993,
+    "tax_rate": 20.0,
+    "population": 80000000,
     "resources": [
       "Coal",
       "Wind Power"
@@ -47,16 +36,8 @@
     ],
     "trade_partners": [
       "SIM"
-    ],
-    "final_rank": 1,
-    "total_countries": 3,
-    "superlative_tags": [
-      "\ud83d\udcb0 Richest Nation",
-      "\ud83d\udd4a\ufe0f Most Diplomatic",
-      "\ud83c\udfac Most Eventful Nation",
-      "\ud83c\udf00 Most Chaotic Nation"
     ]
   },
-  "concluded": true,
-  "updated_at": 1786993091.499003
+  "concluded": false,
+  "updated_at": 1786995993.4061787
 }
