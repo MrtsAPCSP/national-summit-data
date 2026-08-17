@@ -16,7 +16,7 @@
     "rallying_cry": "Power Endures",
     "government_type": "Dictatorship",
     "continent": "Asia",
-    "gdp": 353599108344.02,
+    "gdp": 344899672851.34,
     "happiness_index": 67.7,
     "technology_level": 22.9,
     "diplomacy_score": 30.0,
@@ -40,5 +40,5 @@
     "trade_partners": []
   },
   "concluded": false,
-  "updated_at": 1786993032.6895335
+  "updated_at": 1786993055.8765175
 }
