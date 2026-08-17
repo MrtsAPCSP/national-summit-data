@@ -1,6 +1,9 @@
 {
   "question": null,
-  "log": [],
+  "log": [
+    "[Year 2] You won your war against Testopia.",
+    "[Year 2] Factory workers walk off the job, fed up and demanding better pay. Happiness fell to 63.4."
+  ],
   "stats": {
     "name": "Fakenham",
     "country_code": "FKE",
@@ -11,8 +14,8 @@
     "rallying_cry": "Power Endures",
     "government_type": "Dictatorship",
     "continent": "Asia",
-    "gdp": 327467353112.35,
-    "happiness_index": 60.5,
+    "gdp": 361879277415.22,
+    "happiness_index": 63.4,
     "technology_level": 15.0,
     "diplomacy_score": 30.0,
     "soft_power": 50.8,
@@ -35,5 +38,5 @@
     "trade_partners": []
   },
   "concluded": false,
-  "updated_at": 1786996090.226371
+  "updated_at": 1786996121.866556
 }
