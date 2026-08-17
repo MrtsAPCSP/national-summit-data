@@ -1,60 +1,7 @@
 {
-  "round": 6,
-  "era_label": "Summit Concluded",
-  "narrative": [
-    "The National Summit has concluded!"
-  ],
-  "standings": [
-    {
-      "rank": 1,
-      "code": "TST",
-      "name": "Testopia",
-      "power_index": 52.4,
-      "gdp": 790055796889.57,
-      "happiness": 86.2,
-      "technology": 30.0,
-      "primary_color": "Blue",
-      "secondary_color": "Gold",
-      "government_type": "Federation",
-      "population_loyalty": 100
-    },
-    {
-      "rank": 2,
-      "code": "SIM",
-      "name": "Simuland",
-      "power_index": 46.7,
-      "gdp": 492538933269.96,
-      "happiness": 87.8,
-      "technology": 30.0,
-      "primary_color": "Green",
-      "secondary_color": "Silver",
-      "government_type": "Democracy",
-      "population_loyalty": 100
-    },
-    {
-      "rank": 3,
-      "code": "FKE",
-      "name": "Fakenham",
-      "power_index": 29.9,
-      "gdp": 344899672851.34,
-      "happiness": 67.7,
-      "technology": 22.9,
-      "primary_color": "Black",
-      "secondary_color": "Red",
-      "government_type": "Dictatorship",
-      "population_loyalty": 30.5
-    }
-  ],
-  "status": "concluded",
-  "superlatives": {
-    "richest": "Testopia (TST)",
-    "happiest": "Simuland (SIM)",
-    "innovator": "Simuland (SIM)",
-    "diplomat": "Testopia (TST)",
-    "warmonger": "Fakenham (FKE)",
-    "survivor": "Simuland (SIM)",
-    "eventful": "Testopia (TST)",
-    "chaotic": "Testopia (TST)"
-  },
-  "updated_at": 1786993090.0241787
+  "round": 0,
+  "era_label": "",
+  "narrative": [],
+  "standings": [],
+  "status": "idle"
 }
