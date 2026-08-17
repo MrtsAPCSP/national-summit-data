@@ -1,8 +1,6 @@
 {
   "question": null,
-  "log": [
-    "[Year 1] A corruption scandal rocks the government -- someone's Swiss bank account just got a lot fatter. GDP lost $4,920,956,234."
-  ],
+  "log": [],
   "stats": {
     "name": "Fakenham",
     "country_code": "FKE",
@@ -13,7 +11,7 @@
     "rallying_cry": "Power Endures",
     "government_type": "Dictatorship",
     "continent": "Asia",
-    "gdp": 323142792710.05,
+    "gdp": 337920000000.0,
     "happiness_index": 60.5,
     "technology_level": 15.0,
     "diplomacy_score": 30.0,
@@ -34,11 +32,8 @@
     "enemies": [
       "TST"
     ],
-    "trade_partners": [],
-    "final_rank": 3,
-    "total_countries": 3,
-    "superlative_tags": []
+    "trade_partners": []
   },
-  "concluded": true,
-  "updated_at": 1786986250.2618783
+  "concluded": false,
+  "updated_at": 1786986650.618738
 }
