@@ -1,6 +1,8 @@
 {
   "question": null,
-  "log": [],
+  "log": [
+    "[Year 1] A scrappy young entrepreneur opens a massive new factory, promising thousands of jobs. GDP gained $2,917,070,509."
+  ],
   "stats": {
     "name": "Simuland",
     "country_code": "SIM",
@@ -11,7 +13,7 @@
     "rallying_cry": "Strength in Unity",
     "government_type": "Democracy",
     "continent": "Europe",
-    "gdp": 596544000000.0,
+    "gdp": 586331172256.8,
     "happiness_index": 92.1,
     "technology_level": 30.0,
     "diplomacy_score": 55.0,
@@ -34,8 +36,13 @@
     "enemies": [],
     "trade_partners": [
       "TST"
+    ],
+    "final_rank": 2,
+    "total_countries": 3,
+    "superlative_tags": [
+      "\ud83d\udd2c Most Innovative"
     ]
   },
-  "concluded": false,
-  "updated_at": 1786986650.6207697
+  "concluded": true,
+  "updated_at": 1786986911.0327244
 }
