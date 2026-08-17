@@ -1,15 +1,5 @@
 {
-  "question": {
-    "id": "4ef9b2a7",
-    "type": "classvote",
-    "prompt": "CONTINENTAL TRADE BLOC: Every nation is asked to join a shared free-trade zone, dropping tariffs with every other nation at the Summit.",
-    "target": null,
-    "options": [
-      "yes",
-      "no"
-    ],
-    "posted_at": 1786992724.549619
-  },
+  "question": null,
   "log": [
     "[Year 1] You struck a new trade deal with Simuland. Your economy grew.",
     "[Year 1] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 100."
