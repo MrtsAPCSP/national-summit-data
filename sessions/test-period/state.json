@@ -1,7 +1,9 @@
 {
-  "round": 0,
-  "era_label": "",
-  "narrative": [],
+  "round": 1,
+  "era_label": "Year 1",
+  "narrative": [
+    "Processing this round -- watch for events..."
+  ],
   "standings": [
     {
       "rank": 1,
@@ -43,7 +45,7 @@
       "population_loyalty": 30.5
     }
   ],
-  "status": "idle",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786995998.4113605
+  "updated_at": 1786996017.2018228
 }
