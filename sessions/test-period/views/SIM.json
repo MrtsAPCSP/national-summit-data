@@ -11,7 +11,7 @@
     "rallying_cry": "Strength in Unity",
     "government_type": "Democracy",
     "continent": "Europe",
-    "gdp": 585549066248.34,
+    "gdp": 596544000000.0,
     "happiness_index": 92.1,
     "technology_level": 30.0,
     "diplomacy_score": 55.0,
@@ -34,11 +34,8 @@
     "enemies": [],
     "trade_partners": [
       "TST"
-    ],
-    "final_rank": 2,
-    "total_countries": 3,
-    "superlative_tags": []
+    ]
   },
-  "concluded": true,
-  "updated_at": 1786986250.2618783
+  "concluded": false,
+  "updated_at": 1786986650.6207697
 }
