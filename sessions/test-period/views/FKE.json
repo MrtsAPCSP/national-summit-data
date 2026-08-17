@@ -1,11 +1,6 @@
 {
   "question": null,
-  "log": [
-    "[Year 2] Your researchers had a breakthrough! Technology rose to 18.3, GDP gained $9,433,549,148.",
-    "[Year 4] You won your war against Testopia.",
-    "[Year 4] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 67.7.",
-    "[Year 5] Your researchers had a breakthrough! Technology rose to 22.9, GDP gained $10,299,003,156."
-  ],
+  "log": [],
   "stats": {
     "name": "Fakenham",
     "country_code": "FKE",
@@ -16,9 +11,9 @@
     "rallying_cry": "Power Endures",
     "government_type": "Dictatorship",
     "continent": "Asia",
-    "gdp": 344899672851.34,
-    "happiness_index": 67.7,
-    "technology_level": 22.9,
+    "gdp": 337920000000.0,
+    "happiness_index": 60.5,
+    "technology_level": 15.0,
     "diplomacy_score": 30.0,
     "soft_power": 50.8,
     "trade_openness": 35.0,
@@ -37,13 +32,8 @@
     "enemies": [
       "TST"
     ],
-    "trade_partners": [],
-    "final_rank": 3,
-    "total_countries": 3,
-    "superlative_tags": [
-      "\u2694\ufe0f Most Wars Started"
-    ]
+    "trade_partners": []
   },
-  "concluded": true,
-  "updated_at": 1786993091.49748
+  "concluded": false,
+  "updated_at": 1786995993.4046614
 }
