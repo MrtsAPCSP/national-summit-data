@@ -1,6 +1,9 @@
 {
   "question": null,
-  "log": [],
+  "log": [
+    "[Year 1] You struck a new trade deal with Simuland. Your economy grew.",
+    "[Year 1] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 100."
+  ],
   "stats": {
     "name": "Testopia",
     "country_code": "TST",
@@ -11,7 +14,7 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 860160000000.0,
+    "gdp": 875840961910.28,
     "happiness_index": 100,
     "technology_level": 30.0,
     "diplomacy_score": 70.0,
@@ -39,5 +42,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786992533.8279703
+  "updated_at": 1786992683.312553
 }
