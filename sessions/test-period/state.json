@@ -1,15 +1,8 @@
 {
   "round": 6,
-  "era_label": "Year 6",
+  "era_label": "Summit Concluded",
   "narrative": [
-    "\n============================================================\n  YEAR 6\n============================================================",
-    "\n\ud83c\udfdb\ufe0f  Testopia (TST) took action: Raised taxes to 15.0%. gdp (float): $757,618,788,326 + ($757,618,788,326 \u00d7 0.04) = $787,923,539,859. happiness_index (float) dipped to 86.2.",
-    "\n\ud83c\udf2a\ufe0f  NATURAL DISASTER: Simuland (SIM) is threatened by a raging wildfire season!",
-    "    GDP falls by $60,613,957,334. Happiness drops to 87.8. No relief funds committed -- damage was severe.",
-    "    \ud83d\udd22 gdp (float): $500,039,526,162",
-    "\n\ud83d\uddf3\ufe0f  CLASS VOTE: UNIVERSAL RESEARCH FUND: Every nation is asked to pool a small share of GDP into a shared technology fund open to all.",
-    "    (Read this scenario aloud. Poll the room -- or let them vote on their laptops.)",
-    "    (No votes recorded -- skipping, no continent-wide effect this era.)"
+    "The National Summit has concluded!"
   ],
   "standings": [
     {
@@ -52,7 +45,16 @@
       "population_loyalty": 30.5
     }
   ],
-  "status": "running",
-  "superlatives": null,
-  "updated_at": 1786993059.6916444
+  "status": "concluded",
+  "superlatives": {
+    "richest": "Testopia (TST)",
+    "happiest": "Simuland (SIM)",
+    "innovator": "Simuland (SIM)",
+    "diplomat": "Testopia (TST)",
+    "warmonger": "Fakenham (FKE)",
+    "survivor": "Simuland (SIM)",
+    "eventful": "Testopia (TST)",
+    "chaotic": "Testopia (TST)"
+  },
+  "updated_at": 1786993090.0241787
 }
