@@ -1,17 +1,5 @@
 {
-  "question": {
-    "id": "9df60081",
-    "type": "spotlight",
-    "prompt": "Testopia (TST): commit emergency defense spending? Costs 3 Happiness either way.",
-    "target": [
-      "TST"
-    ],
-    "options": [
-      "yes",
-      "no"
-    ],
-    "posted_at": 1786996102.8029153
-  },
+  "question": null,
   "log": [
     "[Year 1] Lowered taxes to 15.0%. gdp (float): $860,160,000,000 - ($860,160,000,000 \u00d7 0.02) = $842,956,800,000. happiness_index (float) rose to 100.",
     "[Year 1] A raging wildfire season struck your nation. No relief funds committed -- damage was severe. GDP loss: $102,079,997,232, Happiness fell to 95.2."
