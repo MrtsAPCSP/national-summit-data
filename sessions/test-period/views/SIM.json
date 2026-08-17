@@ -1,9 +1,6 @@
 {
   "question": null,
-  "log": [
-    "[Year 1] You struck a new trade deal with Testopia. Your economy grew.",
-    "[Year 1] A corruption scandal rocks the government -- someone's Swiss bank account just got a lot fatter. GDP lost $8,998,620,514."
-  ],
+  "log": [],
   "stats": {
     "name": "Simuland",
     "country_code": "SIM",
@@ -14,7 +11,7 @@
     "rallying_cry": "Strength in Unity",
     "government_type": "Democracy",
     "continent": "Europe",
-    "gdp": 590909413758.31,
+    "gdp": 596544000000.0,
     "happiness_index": 92.1,
     "technology_level": 30.0,
     "diplomacy_score": 55.0,
@@ -37,13 +34,8 @@
     "enemies": [],
     "trade_partners": [
       "TST"
-    ],
-    "final_rank": 2,
-    "total_countries": 3,
-    "superlative_tags": [
-      "\ud83d\udd2c Most Innovative"
     ]
   },
-  "concluded": true,
-  "updated_at": 1786990352.4386237
+  "concluded": false,
+  "updated_at": 1786990636.6208696
 }
