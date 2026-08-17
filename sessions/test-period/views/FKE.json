@@ -1,15 +1,5 @@
 {
-  "question": {
-    "id": "4ef9b2a7",
-    "type": "classvote",
-    "prompt": "CONTINENTAL TRADE BLOC: Every nation is asked to join a shared free-trade zone, dropping tariffs with every other nation at the Summit.",
-    "target": null,
-    "options": [
-      "yes",
-      "no"
-    ],
-    "posted_at": 1786992724.549619
-  },
+  "question": null,
   "log": [],
   "stats": {
     "name": "Fakenham",
