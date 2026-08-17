@@ -13,7 +13,7 @@
     "rallying_cry": "Strength in Unity",
     "government_type": "Democracy",
     "continent": "Europe",
-    "gdp": 577704614731.31,
+    "gdp": 571218761800.91,
     "happiness_index": 92.1,
     "technology_level": 30.0,
     "diplomacy_score": 55.0,
@@ -39,5 +39,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786996035.604309
+  "updated_at": 1786996121.8682196
 }
