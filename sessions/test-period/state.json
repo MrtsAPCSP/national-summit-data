@@ -1,44 +1,7 @@
 {
-  "round": 5,
-  "era_label": "Summit Concluded",
-  "narrative": [
-    "The National Summit has concluded!"
-  ],
-  "standings": [
-    {
-      "rank": 1,
-      "code": "TST",
-      "name": "Testopia",
-      "power_index": 56.5,
-      "gdp": 957602027934.38,
-      "happiness": 100,
-      "technology": 42.2
-    },
-    {
-      "rank": 2,
-      "code": "SIM",
-      "name": "Simuland",
-      "power_index": 48.1,
-      "gdp": 600134027833.44,
-      "happiness": 92.1,
-      "technology": 30.0
-    },
-    {
-      "rank": 3,
-      "code": "FKE",
-      "name": "Fakenham",
-      "power_index": 28.3,
-      "gdp": 297706375894.38,
-      "happiness": 60.5,
-      "technology": 18.7
-    }
-  ],
-  "status": "concluded",
-  "superlatives": {
-    "richest": "Testopia (TST)",
-    "happiest": "Testopia (TST)",
-    "innovator": "Testopia (TST)",
-    "diplomat": "Testopia (TST)"
-  },
-  "updated_at": 1786848137.9100347
+  "round": 0,
+  "era_label": "",
+  "narrative": [],
+  "standings": [],
+  "status": "idle"
 }
