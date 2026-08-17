@@ -8,7 +8,8 @@
     "[Year 3] You struck a new trade deal with Simuland. Your economy grew.",
     "[Year 3] YOUR NATIONAL TEAM WINS THE CHAMPIONSHIP! The whole country is losing its mind. Happiness rose to 100.",
     "[Year 4] Drafted more reserves. military_spending_pct (float): 4.0% + 3 = 7.0%. happiness_index (float) dipped to 98.",
-    "[Year 4] You lost your war against Fakenham. Ceded $115,134,470,126 and took a happiness hit."
+    "[Year 4] You lost your war against Fakenham. Ceded $115,134,470,126 and took a happiness hit.",
+    "[Year 5] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 89.2."
   ],
   "stats": {
     "name": "Testopia",
@@ -20,8 +21,8 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 755086721410.77,
-    "happiness_index": 87.2,
+    "gdp": 757618788326.29,
+    "happiness_index": 89.2,
     "technology_level": 30.0,
     "diplomacy_score": 70.0,
     "soft_power": 87.3,
@@ -48,5 +49,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786992947.730327
+  "updated_at": 1786992968.9970734
 }
