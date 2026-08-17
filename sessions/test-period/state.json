@@ -1,10 +1,8 @@
 {
   "round": 1,
-  "era_label": "Year 1",
+  "era_label": "Summit Concluded",
   "narrative": [
-    "\n============================================================\n  YEAR 1\n============================================================",
-    "\n\ud83d\udca1 TECH BREAKTHROUGH: Testopia (TST) just cracked something huge! Technology Level rises to 35.0, GDP gains $25,748,356,042.",
-    "    \ud83d\udd22 technology_level (float): 35.0"
+    "The National Summit has concluded!"
   ],
   "standings": [
     {
@@ -47,7 +45,12 @@
       "population_loyalty": 30.5
     }
   ],
-  "status": "running",
-  "superlatives": null,
-  "updated_at": 1786986122.052671
+  "status": "concluded",
+  "superlatives": {
+    "richest": "Testopia (TST)",
+    "happiest": "Testopia (TST)",
+    "innovator": "Testopia (TST)",
+    "diplomat": "Testopia (TST)"
+  },
+  "updated_at": 1786986247.6197004
 }
