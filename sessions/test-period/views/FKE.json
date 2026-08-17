@@ -3,7 +3,8 @@
   "log": [
     "[Year 2] Your researchers had a breakthrough! Technology rose to 18.3, GDP gained $9,433,549,148.",
     "[Year 4] You won your war against Testopia.",
-    "[Year 4] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 67.7."
+    "[Year 4] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 67.7.",
+    "[Year 5] Your researchers had a breakthrough! Technology rose to 22.9, GDP gained $10,299,003,156."
   ],
   "stats": {
     "name": "Fakenham",
@@ -15,9 +16,9 @@
     "rallying_cry": "Power Endures",
     "government_type": "Dictatorship",
     "continent": "Asia",
-    "gdp": 357077720274.28,
+    "gdp": 353599108344.02,
     "happiness_index": 67.7,
-    "technology_level": 18.3,
+    "technology_level": 22.9,
     "diplomacy_score": 30.0,
     "soft_power": 50.8,
     "trade_openness": 35.0,
@@ -39,5 +40,5 @@
     "trade_partners": []
   },
   "concluded": false,
-  "updated_at": 1786992950.5084321
+  "updated_at": 1786992968.995532
 }
