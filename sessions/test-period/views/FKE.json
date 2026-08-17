@@ -1,17 +1,5 @@
 {
-  "question": {
-    "id": "3bb581e1",
-    "type": "spotlight",
-    "prompt": "Fakenham (FKE): commit emergency defense spending? Costs 3 Happiness either way.",
-    "target": [
-      "FKE"
-    ],
-    "options": [
-      "yes",
-      "no"
-    ],
-    "posted_at": 1786996085.08721
-  },
+  "question": null,
   "log": [],
   "stats": {
     "name": "Fakenham",
