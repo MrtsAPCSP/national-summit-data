@@ -1,13 +1,1 @@
-{
-  "id": "f4f88baa",
-  "type": "spotlight",
-  "prompt": "Testopia (TST): commit emergency relief funds to soften the damage? Costs ~2% of GDP up front either way.",
-  "target": [
-    "TST"
-  ],
-  "options": [
-    "yes",
-    "no"
-  ],
-  "posted_at": 1786996066.1164958
-}
+{}
