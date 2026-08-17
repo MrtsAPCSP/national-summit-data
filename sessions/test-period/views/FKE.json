@@ -32,11 +32,8 @@
     "enemies": [
       "TST"
     ],
-    "trade_partners": [],
-    "final_rank": 3,
-    "total_countries": 3,
-    "superlative_tags": []
+    "trade_partners": []
   },
-  "concluded": true,
-  "updated_at": 1786991617.417929
+  "concluded": false,
+  "updated_at": 1786992533.8254097
 }
