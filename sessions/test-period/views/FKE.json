@@ -1,6 +1,8 @@
 {
   "question": null,
-  "log": [],
+  "log": [
+    "[Year 2] Your researchers had a breakthrough! Technology rose to 18.3, GDP gained $9,433,549,148."
+  ],
   "stats": {
     "name": "Fakenham",
     "country_code": "FKE",
@@ -11,9 +13,9 @@
     "rallying_cry": "Power Endures",
     "government_type": "Dictatorship",
     "continent": "Asia",
-    "gdp": 328243791456.73,
+    "gdp": 323885187408.68,
     "happiness_index": 60.5,
-    "technology_level": 15.0,
+    "technology_level": 18.3,
     "diplomacy_score": 30.0,
     "soft_power": 50.8,
     "trade_openness": 35.0,
@@ -35,5 +37,5 @@
     "trade_partners": []
   },
   "concluded": false,
-  "updated_at": 1786992728.9687912
+  "updated_at": 1786992747.3947377
 }
