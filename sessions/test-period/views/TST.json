@@ -1,11 +1,43 @@
 {
   "question": null,
-  "log": [
-    "[Year 1] You struck a new trade deal with Simuland. Your economy grew.",
-    "[Year 2] Your researchers had a breakthrough! Technology rose to 36.8, GDP gained $25,988,523,056.",
-    "[Year 3] Class Vote -- CONTINENTAL CLIMATE ACCORD: The Accord fails; economies get a small short-term GDP bump instead (+1%) but environmental damage continues unchecked.",
-    "[Year 4] Class Vote -- CONTINENTAL TRADE BLOC: Trade Openness and GDP rise continent-wide.",
-    "[Year 5] Your researchers had a breakthrough! Technology rose to 42.2, GDP gained $27,891,321,202."
-  ],
-  "updated_at": 1786848140.8529632
+  "log": [],
+  "stats": {
+    "name": "Testopia",
+    "country_code": "TST",
+    "primary_color": "Blue",
+    "secondary_color": "Gold",
+    "leader_title_name": "Chancellor Nia Okafor",
+    "national_symbol": "Blue Falcon",
+    "rallying_cry": "Onward, Ever Onward!",
+    "government_type": "Federation",
+    "continent": "North America",
+    "gdp": 860160000000.0,
+    "happiness_index": 100,
+    "technology_level": 30.0,
+    "diplomacy_score": 70.0,
+    "soft_power": 87.3,
+    "trade_openness": 60.0,
+    "environmental_impact": 15,
+    "population_loyalty": 100,
+    "military_spending_pct": 4.0,
+    "cyber_attack_strength": 25,
+    "has_nuclear_weapons": false,
+    "tax_rate": 20.0,
+    "population": 80000000,
+    "resources": [
+      "Coal",
+      "Wind Power"
+    ],
+    "allies": [
+      "SIM"
+    ],
+    "enemies": [
+      "FKE"
+    ],
+    "trade_partners": [
+      "SIM"
+    ]
+  },
+  "concluded": false,
+  "updated_at": 1786986049.7902389
 }
