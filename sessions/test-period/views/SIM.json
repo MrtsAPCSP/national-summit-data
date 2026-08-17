@@ -1,5 +1,15 @@
 {
-  "question": null,
+  "question": {
+    "id": "4ef9b2a7",
+    "type": "classvote",
+    "prompt": "CONTINENTAL TRADE BLOC: Every nation is asked to join a shared free-trade zone, dropping tariffs with every other nation at the Summit.",
+    "target": null,
+    "options": [
+      "yes",
+      "no"
+    ],
+    "posted_at": 1786992724.549619
+  },
   "log": [
     "[Year 1] You struck a new trade deal with Testopia. Your economy grew."
   ],
@@ -39,5 +49,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786992683.312553
+  "updated_at": 1786992728.976199
 }
