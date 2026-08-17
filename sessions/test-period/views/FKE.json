@@ -1,18 +1,8 @@
 {
-  "question": {
-    "id": "4158a966",
-    "type": "spotlight",
-    "prompt": "Fakenham (FKE): commit emergency relief funds to soften the damage? Costs ~2% of GDP up front either way.",
-    "target": [
-      "FKE"
-    ],
-    "options": [
-      "yes",
-      "no"
-    ],
-    "posted_at": 1786986753.3470101
-  },
-  "log": [],
+  "question": null,
+  "log": [
+    "[Year 1] A wildfire racing across the dry plains struck your nation. No relief funds committed -- damage was severe. GDP loss: $36,821,601,826, Happiness fell to 56.0."
+  ],
   "stats": {
     "name": "Fakenham",
     "country_code": "FKE",
@@ -23,8 +13,8 @@
     "rallying_cry": "Power Endures",
     "government_type": "Dictatorship",
     "continent": "Asia",
-    "gdp": 337920000000.0,
-    "happiness_index": 60.5,
+    "gdp": 288165488470.25,
+    "happiness_index": 56.0,
     "technology_level": 15.0,
     "diplomacy_score": 30.0,
     "soft_power": 50.8,
@@ -44,8 +34,14 @@
     "enemies": [
       "TST"
     ],
-    "trade_partners": []
+    "trade_partners": [],
+    "final_rank": 3,
+    "total_countries": 3,
+    "superlative_tags": [
+      "\ud83c\udf2a\ufe0f Most Disasters Faced",
+      "\ud83c\udfac Most Eventful Nation"
+    ]
   },
-  "concluded": false,
-  "updated_at": 1786986757.6968148
+  "concluded": true,
+  "updated_at": 1786986911.0315733
 }
