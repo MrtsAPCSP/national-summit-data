@@ -3,7 +3,10 @@
   "log": [
     "[Year 1] You struck a new trade deal with Simuland. Your economy grew.",
     "[Year 1] A wild street festival erupts across the capital -- three days straight of music and dancing. Happiness rose to 100.",
-    "[Year 2] Lowered taxes to 15.0%. gdp (float): $875,840,961,910 - ($875,840,961,910 \u00d7 0.02) = $858,324,142,672. happiness_index (float) rose to 100."
+    "[Year 2] Lowered taxes to 15.0%. gdp (float): $875,840,961,910 - ($875,840,961,910 \u00d7 0.02) = $858,324,142,672. happiness_index (float) rose to 100.",
+    "[Year 3] Lowered taxes to 10.0%. gdp (float): $860,833,123,647 - ($860,833,123,647 \u00d7 0.02) = $843,616,461,174. happiness_index (float) rose to 100.",
+    "[Year 3] You struck a new trade deal with Simuland. Your economy grew.",
+    "[Year 3] YOUR NATIONAL TEAM WINS THE CHAMPIONSHIP! The whole country is losing its mind. Happiness rose to 100."
   ],
   "stats": {
     "name": "Testopia",
@@ -15,7 +18,7 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 860833123646.84,
+    "gdp": 873148245078.87,
     "happiness_index": 100,
     "technology_level": 30.0,
     "diplomacy_score": 70.0,
@@ -26,7 +29,7 @@
     "military_spending_pct": 4.0,
     "cyber_attack_strength": 25,
     "has_nuclear_weapons": false,
-    "tax_rate": 15.0,
+    "tax_rate": 10.0,
     "population": 80000000,
     "resources": [
       "Coal",
@@ -43,5 +46,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786992747.3962634
+  "updated_at": 1786992792.1557028
 }
