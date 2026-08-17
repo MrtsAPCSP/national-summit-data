@@ -1,12 +1,8 @@
 {
-  "round": 4,
-  "era_label": "Year 4",
+  "round": 5,
+  "era_label": "Year 5",
   "narrative": [
-    "\n============================================================\n  YEAR 4\n============================================================",
-    "\n\ud83c\udfdb\ufe0f  Testopia (TST) took action: Drafted more reserves. military_spending_pct (float): 4.0% + 3 = 7.0%. happiness_index (float) dipped to 98.",
-    "\n\u2694\ufe0f  WAR ALERT: Tensions between Fakenham (FKE) and Testopia (TST) are boiling over!",
-    "    Fakenham (FKE) wins the conflict. Testopia (TST) cedes $115,134,470,126 in economic losses.",
-    "    \ud83d\udd22 military_spending_pct (float): 18.0%"
+    "Processing this round -- watch for events..."
   ],
   "standings": [
     {
@@ -49,7 +45,7 @@
       "population_loyalty": 30.5
     }
   ],
-  "status": "running",
+  "status": "processing",
   "superlatives": null,
-  "updated_at": 1786992867.321457
+  "updated_at": 1786992941.4427097
 }
