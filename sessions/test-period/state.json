@@ -1,15 +1,8 @@
 {
   "round": 2,
-  "era_label": "Year 2",
+  "era_label": "Summit Concluded",
   "narrative": [
-    "\n============================================================\n  YEAR 2\n============================================================",
-    "\n\ud83c\udfdb\ufe0f  Testopia (TST) took action: Lowered taxes to 10.0%. gdp (float): $740,641,173,807 - ($740,641,173,807 \u00d7 0.02) = $725,828,350,331. happiness_index (float) rose to 98.2.",
-    "\n\ud83c\udf2a\ufe0f  NATURAL DISASTER: Testopia (TST) is threatened by the worst river flooding in a generation!",
-    "    GDP falls by $26,858,767,892. Happiness drops to 96.7. No relief funds committed -- damage was severe.",
-    "    \ud83d\udd22 gdp (float): $691,404,139,941",
-    "\n\u2694\ufe0f  WAR ALERT: Tensions between Fakenham (FKE) and Testopia (TST) are boiling over!",
-    "    Fakenham (FKE) wins the conflict. Testopia (TST) cedes $91,641,549,099 in economic losses.",
-    "    \ud83d\udd22 military_spending_pct (float): 18.0%"
+    "The National Summit has concluded!"
   ],
   "standings": [
     {
@@ -52,7 +45,16 @@
       "population_loyalty": 30.5
     }
   ],
-  "status": "running",
-  "superlatives": null,
-  "updated_at": 1786996127.5970619
+  "status": "concluded",
+  "superlatives": {
+    "richest": "Testopia (TST)",
+    "happiest": "Simuland (SIM)",
+    "innovator": "Simuland (SIM)",
+    "diplomat": "Testopia (TST)",
+    "warmonger": "Fakenham (FKE)",
+    "survivor": "Testopia (TST)",
+    "eventful": "Testopia (TST)",
+    "chaotic": "Testopia (TST)"
+  },
+  "updated_at": 1786996260.0282364
 }
