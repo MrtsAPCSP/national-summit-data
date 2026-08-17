@@ -1,13 +1,1 @@
-{
-  "id": "4158a966",
-  "type": "spotlight",
-  "prompt": "Fakenham (FKE): commit emergency relief funds to soften the damage? Costs ~2% of GDP up front either way.",
-  "target": [
-    "FKE"
-  ],
-  "options": [
-    "yes",
-    "no"
-  ],
-  "posted_at": 1786986753.3470101
-}
+{}
