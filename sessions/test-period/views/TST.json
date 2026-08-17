@@ -1,6 +1,9 @@
 {
   "question": null,
-  "log": [],
+  "log": [
+    "[Year 1] You struck a new trade deal with Simuland. Your economy grew.",
+    "[Year 1] A swarm of tornadoes tearing through the countryside struck your nation. No relief funds committed -- damage was severe. GDP loss: $57,673,231,709, Happiness fell to 97.3."
+  ],
   "stats": {
     "name": "Testopia",
     "country_code": "TST",
@@ -11,8 +14,8 @@
     "rallying_cry": "Onward, Ever Onward!",
     "government_type": "Federation",
     "continent": "North America",
-    "gdp": 860160000000.0,
-    "happiness_index": 100,
+    "gdp": 807465712557.61,
+    "happiness_index": 97.3,
     "technology_level": 30.0,
     "diplomacy_score": 70.0,
     "soft_power": 87.3,
@@ -39,5 +42,5 @@
     ]
   },
   "concluded": false,
-  "updated_at": 1786989917.0794547
+  "updated_at": 1786989943.0131862
 }
